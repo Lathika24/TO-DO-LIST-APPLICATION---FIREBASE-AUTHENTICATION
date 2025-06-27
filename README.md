@@ -4,23 +4,6 @@ This project is a **cloud-powered To-Do List web application** developed using *
 
 ---
 
-## 📖 Table of Contents
-
-- [📌 Features](#-features)
-- [🚀 Live Demo](#-live-demo)
-- [📸 Architecture Diagram](#-architecture-diagram)
-- [🛠️ Technologies Used](#️-technologies-used)
-- [⚙️ Getting Started](#️-getting-started)
-- [📂 Folder Structure](#-folder-structure)
-- [📜 Available Scripts](#-available-scripts)
-- [🗂️ Environment Variables](#️-environment-variables)
-- [🛣️ Roadmap & Future Enhancements](#️-roadmap--future-enhancements)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [📬 Contact](#-contact)
-
----
-
 ## 📌 Features
 
 - 🔐 Google Sign-In Authentication (via Firebase)
