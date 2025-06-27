@@ -1,6 +1,6 @@
 # ✅ Cloud-Based To-Do List Application (React JS + Firebase)
 
-This project is a **cloud-powered To-Do List web application** developed using **React JS** for the frontend and **Firebase** for backend services including Authentication, Firestore Database, and Hosting. It allows users to authenticate via Google, manage tasks in real-time, and access their task list securely from any device.
+This project is a **cloud-powered To-Do List web application** developed using **React JS** for the frontend and **Firebase** for backend services including Authentication. It allows users to authenticate via Google, manage tasks in real-time, and access their task list securely from any device.
 
 ---
 
